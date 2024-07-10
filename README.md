@@ -1,0 +1,1 @@
+-> to get you own api-key visit and create an acount in ----https://home.openweathermap.org/
